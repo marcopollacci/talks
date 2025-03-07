@@ -20,7 +20,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2025-3-31 | Web Day 2025 | [Web Workers su Angular - Multithreading senza mal di testa](pages/2025/2025-03-31.md) |  |  | [🇮🇹](## "Italy") | Italian |
-| 2025-3-28 | cssday 2025 - \#accessibilità | [Progettare per l'inclusione culturale. CSS ed accessibilità come strumenti chiave (Lightning talk)](pages/2025/2025-03-28.md) |  |  | [🇮🇹](## "Italy") | Italian |
+| 2025-3-28 | cssday 2025 - \#accessibilità | [Designing for Cultural Inclusion. CSS and accessibility as key tools (Lightning talk)](pages/2025/2025-03-28.md) |  |  | [🇮🇹](## "Italy") | Italian |
 | 2025-2-26 | Modena FullStack | [Reattività sul frontend tramite i Signal](pages/2025/2025-02-26.md) | [Slides](https://talk-reattivita-fe-signal.pages.dev/modena-full-stack) |  | [🇮🇹](## "Italy") | Italian |
 
 
@@ -42,6 +42,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2025-02-27T06:59:54.895Z*
+*page updated on 2025-03-07T16:01:40.344Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

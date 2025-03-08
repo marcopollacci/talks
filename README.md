@@ -34,14 +34,14 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2024-5-7 | Phygital Hub | [Deep dive into a fullstack framework for React](pages/2024/2024-05-07.md) | [Slides](https://marcopollacci.github.io/nextjs-for-beginner/gellify) |  | [🇮🇹](## "Italy") | Italian |
+| 2024-5-7 | Phygital Hub | [Deep dive into a fullstack framework for React](pages/2024/2024-05-07.md) | [Slides](https://nextjs-for-beginner.pages.dev/gellify) |  | [🇮🇹](## "Italy") | Italian |
 | 2024-4-17 | BolognaJS | [Guida Essenziale all'Integrazione di Angular e Signal](pages/2024/2024-04-17.md) | [Slides](https://angular-signal.pages.dev/bologna-js) |  | [🇮🇹](## "Italy") | Italian |
-| 2024-2-27 | GDG Bologna | [Guida Essenziale all'Integrazione di Angular e Signal](pages/2024/2024-02-27.md) | [Slides](https://marcopollacci.github.io/angular-signal/gdg) |  | [🇮🇹](## "Italy") | Italian |
+| 2024-2-27 | GDG Bologna | [Guida Essenziale all'Integrazione di Angular e Signal](pages/2024/2024-02-27.md) | [Slides](https://angular-signal.pages.dev/gdg/) |  | [🇮🇹](## "Italy") | Italian |
 
 
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2025-03-07T16:01:40.344Z*
+*page updated on 2025-03-08T13:55:02.711Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-8-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-4-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-2-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-8-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-4-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-2-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking</h1>
 <p align='center'>Reach me out on my website! <a href='https://marcopollacci.it'>marcopollacci.it</a></p>
@@ -29,7 +29,7 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square)     
+![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square)     ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
 
 
 
@@ -44,6 +44,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2025-04-13T10:10:54.911Z*
+*page updated on 2025-04-13T12:25:23.879Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

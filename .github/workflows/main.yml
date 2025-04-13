@@ -45,7 +45,7 @@ jobs:
       - name: Move to site branch
         run: |
           git stash
-          git checkout origin/site
+          git checkout -b site
           git stash pop
 
       - name: Push gigs into repository

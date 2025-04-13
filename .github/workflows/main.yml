@@ -42,17 +42,11 @@ jobs:
       - name: Alter html file
         run: npm run afterbuild
 
-      - name: Move to site branch
-        run: |
-          git stash
-          git checkout -b site
-          git stash pop
-
       - name: Push gigs into repository
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: "site"
+          push-branch: "main"
           commit-message: "chore: updating README with new gigs and create HTML"
           files: README.md docs/
           name: Marco Pollacci

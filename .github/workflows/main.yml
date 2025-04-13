@@ -46,7 +46,7 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: "main"
+          push-branch: "site"
           commit-message: "chore: updating README with new gigs and create HTML"
           files: README.md docs/
           name: Marco Pollacci

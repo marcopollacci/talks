@@ -39,6 +39,9 @@ jobs:
       - name: Create gigs html with 11ty
         run: npx @11ty/eleventy
 
+      - name: Alter html file
+        run: npm run alterbuild
+
       - name: Push gigs into repository
         uses: github-actions-x/commit@v2.9
         with:

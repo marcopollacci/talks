@@ -10,8 +10,8 @@ const file = fs.readFileSync(
   "utf8"
 );
 
-const regex = /<a href="pages\/(.*?)\.(.*?)"><\/a>/g;
-const newFile = file.replace(regex, "");
+const pattern = /<a\s+href="pages\/[^"]*">(.*?)<\/a>/g;
 
-//write new file
-fs.writeFileSync(path.join(__dirname, "docs", "index.html"), newFile, "utf8");
+const newFile = file.replace(pattern, "$1");
+
+fs.writeFileSync(path.join(__dirname, "docs", "index.html"), newFile);

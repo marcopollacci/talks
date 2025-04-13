@@ -40,7 +40,7 @@ jobs:
         run: npx @11ty/eleventy
 
       - name: Alter html file
-        run: npm run alterbuild
+        run: npm run afterbuild
 
       - name: Push gigs into repository
         uses: github-actions-x/commit@v2.9

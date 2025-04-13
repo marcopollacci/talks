@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "alterbuild": "node alterbuild.js"
+    "afterbuild": "node afterbuild.js"
   },
   "repository": {
     "type": "git",

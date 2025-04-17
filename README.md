@@ -19,9 +19,9 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2025-4-16 | BolognaJS | [Web Workers in Angular - Multithreading without the headache](pages/2025/2025-04-16.md) | [Slides](https://talk-web-workers-angular.pages.dev/bologna-js) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-4-16 | BolognaJS | [Web Workers in Angular - Multithreading without the headache](pages/2025/2025-04-16.md) | [Slides](https://talk-web-workers-angular.pages.dev/bologna-js) | [Recording](https://www.youtube.com/watch?v=roEdVoFqKak) | [🇮🇹](## "Italy") | Italian |
 | 2025-4-16 | Mind the Gap! Quando l’inclusività non è un optional ma un "atto" di design | [Mind the Gap! Quando l’inclusività non è un optional ma un "atto" di design](pages/2025/2025-04-16_bis.md) |  | [Recording](https://www.linkedin.com/events/mindthegap-quandol-inclusivit-n7310594760103149569/about/) | [🇮🇹](## "Italy") | Italian |
-| 2025-3-31 | Web Day 2025 | [Web Workers in Angular - Multithreading without the headache](pages/2025/2025-03-31.md) | [Slides](https://talk-web-workers-angular.pages.dev/web-day-2025) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-3-31 | Web Day 2025 | [Web Workers in Angular - Multithreading without the headache](pages/2025/2025-03-31.md) | [Slides](https://talk-web-workers-angular.pages.dev/web-day-2025) | [Recording](https://www.improove.tech/videos/3628/Web-Workers-su-Angular-Multithreading-senza-mal-di-testa) | [🇮🇹](## "Italy") | Italian |
 | 2025-3-28 | cssday 2025 - \#accessibilità | [Designing for Cultural Inclusion. CSS and accessibility as key tools (Lightning talk)](pages/2025/2025-03-28.md) | [Slides](https://css-accessibility-cultural-inclusion.pages.dev/css-day-2025/) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-2-26 | Modena FullStack | [Reattività sul frontend tramite i Signal](pages/2025/2025-02-26.md) | [Slides](https://talk-reattivita-fe-signal.pages.dev/modena-full-stack) |  | [🇮🇹](## "Italy") | Italian |
 
@@ -44,6 +44,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2025-04-16T11:07:26.576Z*
+*page updated on 2025-04-17T10:13:28.674Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

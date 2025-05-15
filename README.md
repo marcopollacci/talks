@@ -2,6 +2,7 @@
 </div>
   <p align='center'><h1 align='center'>Public Speaking</h1>
 <p align='center'>Reach me out on my website! <a href='https://marcopollacci.it'>marcopollacci.it</a></p>
+<p align='center'>Rate one of my talk on <a href='https://rating.marcopollacci.it'>https://rating.marcopollacci.it</a></p>
 
 # Table of Contents
 
@@ -44,6 +45,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2025-04-17T10:13:28.674Z*
+*page updated on 2025-05-15T08:32:52.766Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

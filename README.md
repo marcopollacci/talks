@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-8-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-4-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-2-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-9-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-5-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-2-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking</h1>
 <p align='center'>Reach me out on my website! <a href='https://marcopollacci.it'>marcopollacci.it</a></p>
@@ -7,19 +7,20 @@
 # Table of Contents
 
 
- - [Year of 2025](#2025) - total events 5
+ - [Year of 2025](#2025) - total events 6
  - [Year of 2024](#2024) - total events 3
 
 # 2025
 
 
-![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2025-6-19 | Green Software Italia 2° Meetup | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-06-19.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/green-software-italia-2025/) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-4-16 | BolognaJS | [Web Workers in Angular - Multithreading without the headache](pages/2025/2025-04-16.md) | [Slides](https://talk-web-workers-angular.pages.dev/bologna-js) | [Recording](https://www.youtube.com/watch?v=roEdVoFqKak) | [🇮🇹](## "Italy") | Italian |
 | 2025-4-16 | Mind the Gap! Quando l’inclusività non è un optional ma un "atto" di design | [Mind the Gap! Quando l’inclusività non è un optional ma un "atto" di design](pages/2025/2025-04-16_bis.md) |  | [Recording](https://www.linkedin.com/events/mindthegap-quandol-inclusivit-n7310594760103149569/about/) | [🇮🇹](## "Italy") | Italian |
 | 2025-3-31 | Web Day 2025 | [Web Workers in Angular - Multithreading without the headache](pages/2025/2025-03-31.md) | [Slides](https://talk-web-workers-angular.pages.dev/web-day-2025) | [Recording](https://www.improove.tech/videos/3628/Web-Workers-su-Angular-Multithreading-senza-mal-di-testa) | [🇮🇹](## "Italy") | Italian |
@@ -45,6 +46,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2025-05-15T08:32:52.766Z*
+*page updated on 2025-06-17T10:16:41.000Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

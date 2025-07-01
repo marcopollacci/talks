@@ -20,7 +20,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2025-8-15 | Reggio Emilia FullStack | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-08-15.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/reggio-emilia-full-stack-2025/) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-7-15 | Reggio Emilia FullStack | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-07-15.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/reggio-emilia-full-stack-2025/) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-6-19 | Green Software Italia 2° Meetup | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-06-19.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/green-software-italia-2025/) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-4-16 | BolognaJS | [Web Workers in Angular - Multithreading without the headache](pages/2025/2025-04-16.md) | [Slides](https://talk-web-workers-angular.pages.dev/bologna-js) | [Recording](https://www.youtube.com/watch?v=roEdVoFqKak) | [🇮🇹](## "Italy") | Italian |
 | 2025-4-16 | Mind the Gap! Quando l’inclusività non è un optional ma un "atto" di design | [Mind the Gap! Quando l’inclusività non è un optional ma un "atto" di design](pages/2025/2025-04-16_bis.md) |  | [Recording](https://www.linkedin.com/events/mindthegap-quandol-inclusivit-n7310594760103149569/about/) | [🇮🇹](## "Italy") | Italian |
@@ -47,6 +47,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2025-07-01T09:12:23.258Z*
+*page updated on 2025-07-01T09:14:39.271Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

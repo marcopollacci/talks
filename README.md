@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-11-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-6-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-3-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-15-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-8-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-5-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking</h1>
 <p align='center'>Reach me out on my website! <a href='https://marcopollacci.it'>marcopollacci.it</a></p>
@@ -7,13 +7,13 @@
 # Table of Contents
 
 
- - [Year of 2025](#2025) - total events 8
+ - [Year of 2025](#2025) - total events 12
  - [Year of 2024](#2024) - total events 3
 
 # 2025
 
 
-![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-12-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
 
 
 
@@ -21,6 +21,10 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2025-10-11 | DevFest Milano 2025 | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-10-11.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/devfest-milano-2025/) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-10-8 | WPMI - October Monthly Meetup | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-10-08.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/wpmi-2025/) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-10-7 | Bologna FrontEnd - October Monthly Meetup | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-10-07.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/bologna-front-end-2025/) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-10-4 | DevFest Modena 2025 | [Framework-Agnostic Design Systems - Using Lit Web Components](pages/2025/2025-10-04.md) | [Slides](https://talk-framework-agnostic-component-with-lit.pages.dev/devfest-modena-2025/) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-10-3 | 4dev 2025 | [Framework-Agnostic Design Systems - Using Lit Web Components](pages/2025/2025-10-03.md) | [Slides](https://talk-framework-agnostic-component-with-lit.pages.dev/4dev-2025/) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-7-15 | Reggio Emilia FullStack | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-07-15.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/reggio-emilia-full-stack-2025/) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-6-19 | Green Software Italia 2° Meetup | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-06-19.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/green-software-italia-2025/) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-4-16 | BolognaJS | [Web Workers in Angular - Multithreading without the headache](pages/2025/2025-04-16.md) | [Slides](https://talk-web-workers-angular.pages.dev/bologna-js) | [Recording](https://www.youtube.com/watch?v=roEdVoFqKak) | [🇮🇹](## "Italy") | Italian |
@@ -48,6 +52,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2025-08-14T08:48:01.129Z*
+*page updated on 2025-09-26T13:56:40.522Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

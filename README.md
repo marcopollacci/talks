@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-16-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-8-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-6-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-17-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-8-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-7-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking</h1>
 <p align='center'>Reach me out on my website! <a href='https://marcopollacci.it'>marcopollacci.it</a></p>
@@ -7,13 +7,13 @@
 # Table of Contents
 
 
- - [Year of 2025](#2025) - total events 13
+ - [Year of 2025](#2025) - total events 14
  - [Year of 2024](#2024) - total events 3
 
 # 2025
 
 
-![Total Events](https://img.shields.io/badge/total-13-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-14-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
 
 
 
@@ -21,6 +21,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2025-11-22 | WordCamp Pisa 2025 | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-11-22.md) | [Slides](https://css-accessibility-cultural-inclusion.marcotalk.dev/word-camp-pisa-2025/) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-11-9 | DevFest Pescara 2025 | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-11-09.md) | [Slides](https://css-accessibility-cultural-inclusion.marcotalk.dev/devfest-pescara-2025/) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-10-11 | DevFest Milano 2025 | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-10-11.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/devfest-milano-2025/) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-10-8 | WPMI - October Monthly Meetup | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-10-08.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/wpmi-2025/) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-10-7 | Bologna FrontEnd - October Monthly Meetup | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2025/2025-10-07.md) | [Slides](https://css-accessibility-cultural-inclusion-v2.pages.dev/bologna-front-end-2025/) |  | [🇮🇹](## "Italy") | Italian |
@@ -53,6 +54,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2025-10-15T10:55:37.843Z*
+*page updated on 2025-10-27T11:49:13.800Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

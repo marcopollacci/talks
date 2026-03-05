@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-17-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-8-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-7-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-19-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-8-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-9-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking</h1>
 <p align='center'>Reach me out on my website! <a href='https://marcopollacci.it'>marcopollacci.it</a></p>
@@ -7,8 +7,23 @@
 # Table of Contents
 
 
+ - [Year of 2026](#2026) - total events 2
  - [Year of 2025](#2025) - total events 14
  - [Year of 2024](#2024) - total events 3
+
+# 2026
+
+
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2026-6-11 | cssday 2026 \| Progettiamo il web con creatività, accessibilità e sostenibilità. | [Meno build, più runtime. Creare un Design System flessibile con il CSS di oggi](pages/2026/2026-06-11.md) |  |  | [🇮🇹](## "Italy") | Italian |
+| 2026-3-30 | Web Day 2025 | [Progettare per l'inclusione culturale. CSS ed accessibilità come strumenti chiave](pages/2026/2026-03-30.md) | [Slides](https://css-accessibility-cultural-inclusion.marcotalk.dev/web-day-2026/) |  | [🇮🇹](## "Italy") | Italian |
+
 
 # 2025
 
@@ -54,6 +69,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2025-11-29T11:22:50.645Z*
+*page updated on 2026-03-05T17:22:45.647Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

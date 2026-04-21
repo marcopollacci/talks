@@ -23,7 +23,7 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2026-6-11 | cssday 2026 \| Progettiamo il web con creatività, accessibilità e sostenibilità. | [Meno build, più runtime. Creare un Design System flessibile con il CSS di oggi](pages/2026/2026-06-11.md) |  |  | [🇮🇹](## "Italy") | Italian |
 | 2026-5-8 | ITDEVCON 2026 | [Creare un Design System framework-agnostico con Lit. dai componenti Delphi ai Web Components](pages/2026/2026-05-08.md) |  |  | [🇮🇹](## "Italy") | Italian |
-| 2026-3-30 | Web Day 2025 | [Progettare per l'inclusione culturale. CSS ed accessibilità come strumenti chiave](pages/2026/2026-03-30.md) | [Slides](https://css-accessibility-cultural-inclusion.marcotalk.dev/web-day-2026/) |  | [🇮🇹](## "Italy") | Italian |
+| 2026-3-30 | Web Day 2026 | [Progettare per l'inclusione culturale. CSS ed accessibilità come strumenti chiave](pages/2026/2026-03-30.md) | [Slides](https://css-accessibility-cultural-inclusion.marcotalk.dev/web-day-2026/) |  | [🇮🇹](## "Italy") | Italian |
 
 
 # 2025
@@ -70,6 +70,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2026-03-27T11:52:09.870Z*
+*page updated on 2026-04-21T16:47:52.038Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

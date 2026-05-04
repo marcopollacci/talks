@@ -22,6 +22,6 @@
   "homepage": "https://github.com/gigsboat/gigs-template#readme",
   "devDependencies": {
     "markdown-it-anchor": "^9.2.0",
-    "markdown-it": "^14.1.0"
+    "markdown-it": "^14.1.1"
   }
 }

@@ -23,7 +23,7 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2026-6-11 | cssday 2026 \| Progettiamo il web con creatività, accessibilità e sostenibilità. | [Meno build, più runtime. Creare un Design System flessibile con il CSS di oggi](pages/2026/2026-06-11.md) |  |  | [🇮🇹](## "Italy") | Italian |
 | 2026-5-12 | Reggio Emilia FullStack | [Don’t Block the Main Thread. A Journey into Web Workers (with a Touch of Angular)](pages/2026/2026-05-12.md) | [Slides](https://talk-dont-block-the-main-thread.marcotalk.dev/reggio-emilia-full-stack-2026/) |  | [🇮🇹](## "Italy") | Italian |
-| 2026-5-8 | ITDEVCON 2026 | [Creare un Design System framework-agnostico con Lit. dai componenti Delphi ai Web Components](pages/2026/2026-05-08.md) |  |  | [🇮🇹](## "Italy") | Italian |
+| 2026-5-8 | ITDEVCON 2026 | [Creare un Design System framework-agnostico con Lit. dai componenti Delphi ai Web Components](pages/2026/2026-05-08.md) | [Slides](https://talk-framework-agnostic-component-with-lit.marcotalk.dev/itdevcon-2026) |  | [🇮🇹](## "Italy") | Italian |
 | 2026-3-30 | Web Day 2026 | [Progettare per l'inclusione culturale. CSS ed accessibilità come strumenti chiave](pages/2026/2026-03-30.md) | [Slides](https://css-accessibility-cultural-inclusion.marcotalk.dev/web-day-2026/) |  | [🇮🇹](## "Italy") | Italian |
 
 
@@ -71,6 +71,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2026-05-04T15:20:28.335Z*
+*page updated on 2026-05-04T15:35:35.888Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)

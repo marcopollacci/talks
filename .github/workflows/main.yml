@@ -15,20 +15,22 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v6
         with:
           node-version: ${{ matrix.node-version }}
-          cache: npm
-
-      - name: Install pnpm dependencies
-        run: npm install -g pnpm@10
+          cache: pnpm
 
       - name: Install 11ty dependencies
-        run: pnpm install markdown-it markdown-it-anchor
+        run: pnpm add markdown-it markdown-it-anchor
 
       - name: Create gigs
-        run: npx @gigsboat/cli
+        run: pnpm dlx @gigsboat/cli
 
       - name: Copy file to eleventy starter directory
         run: cp README.md gigsboat-eleventy-starter/index.md
@@ -41,10 +43,10 @@ jobs:
           cp gigsboat-eleventy-starter/styles.css jekyll/styles.css
 
       - name: Create gigs html with 11ty
-        run: npx @11ty/eleventy
+        run: pnpm dlx @11ty/eleventy
 
       - name: Alter html file
-        run: npm run afterbuild
+        run: pnpm run afterbuild
 
       - name: Push gigs into repository
         uses: github-actions-x/commit@v2.9

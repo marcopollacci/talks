@@ -21,8 +21,11 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: npm
 
+      - name: Install pnpm dependencies
+        run: npm install -g pnpm@10
+
       - name: Install 11ty dependencies
-        run: npm install markdown-it markdown-it-anchor
+        run: pnpm install markdown-it markdown-it-anchor
 
       - name: Create gigs
         run: npx @gigsboat/cli

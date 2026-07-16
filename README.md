@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-23-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-10-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-11-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-24-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-10-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-12-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking</h1>
 <p align='center'>Reach me out on my website! <a href='https://marcopollacci.it'>marcopollacci.it</a></p>
@@ -7,20 +7,21 @@
 # Table of Contents
 
 
- - [Year of 2026](#2026) - total events 6
+ - [Year of 2026](#2026) - total events 7
  - [Year of 2025](#2025) - total events 14
  - [Year of 2024](#2024) - total events 3
 
 # 2026
 
 
-![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2026-11-20 | angularday | [Don’t Block the Main Thread. A Journey into Web Workers (with a Touch of Angular)](pages/2026/2026-11-20.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2026-6-19 | working software 2026 | [Designing for Cultural Inclusion. CSS and accessibility as key tools](pages/2026/2026-06-19.md) | [Slides](https://css-accessibility-cultural-inclusion.marcotalk.dev/working-software-2026/) |  | [🇮🇹](## "Italy") | Italian |
 | 2026-6-11 | cssday 2026 \| Progettiamo il web con creatività, accessibilità e sostenibilità. | [Meno build, più runtime. Creare un Design System flessibile con il CSS di oggi](pages/2026/2026-06-11.md) | [Slides](https://talk-runtime-css-design-systems.marcotalk.dev/css-day-2026) |  | [🇮🇹](## "Italy") | Italian |
 | 2026-5-27 | BolognaJS | [MCP - il collega silenzioso che connette i tuoi servizi all AI](pages/2026/2026-05-27.md) | [Slides](https://talk-mcp-silent-colleague.marcotalk.dev/bologna-js) |  | [🇮🇹](## "Italy") | Italian |
@@ -73,6 +74,6 @@
 
 <p align='center'><h2 align='center'>Bye Folks!!!</h2></p>
 
-*page updated on 2026-06-12T09:09:04.430Z*
+*page updated on 2026-07-16T10:24:09.984Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
